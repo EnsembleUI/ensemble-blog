@@ -5,7 +5,6 @@
 /dist
 /build
 /coverage
-/.vscode
 /.idea
 /.DS_Store
 /.next
@@ -30,3 +29,4 @@
 .e2e-state.json
 /test-results/
 .playwright-mcp/
+config.bat
