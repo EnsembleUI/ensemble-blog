@@ -29,4 +29,3 @@
 .e2e-state.json
 /test-results/
 .playwright-mcp/
-config.bat
